@@ -1,9 +1,0 @@
-{
-  "role": "Admin",
-  "employee": "A",  
-  "status": "Enabled",
-  "username": "testuser123",
-  "password": "HelloAdmin@123",
-  "confirmPassword": "HelloAdmin@123",
-  "confirmPasswordWrong": "Pass@12"
-}
